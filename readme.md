@@ -7,4 +7,4 @@ some list:
 
 * item 2
 
-[google.com] (google.com)
+[google.com](google.com)
